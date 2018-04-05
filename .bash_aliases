@@ -1,0 +1,7 @@
+alias youtubemp3="youtube-dl -x --audio-format mp3"
+alias aurupdate="yaourt -Syua --insecure"
+alias pacsearch="pacman -Ss"
+alias dis_ether="sudo ifconfig enp2s0f1 down"
+alias act_anaconda="export PATH=~/anaconda3/bin:$PATH"
+alias conda_act="source activate"
+alias df="df -h"
